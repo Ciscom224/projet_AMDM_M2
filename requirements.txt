@@ -1,0 +1,13 @@
+pandas
+geopandas
+movingpandas
+shapely
+sqlalchemy
+hvplot
+holoviews
+matplotlib
+geoviews
+contextily
+jupyter
+notebook
+ipykernel

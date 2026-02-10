@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.Python
+
+# --- Environnements Virtuels ---
+venv/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+data/
+output/
+
+*.csv
+*.json
+*.mfjson
+*.geojson
+*.zip
+*.tar.gz
+
+# --- IDE & Système ---
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
