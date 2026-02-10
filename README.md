@@ -69,7 +69,7 @@ Suivez ces étapes pour reproduire l'environnement de développement et lancer l
 Récupérez le code source du projet sur votre machine locale :
 
 ```bash
-git clone [https://github.com/votre-utilisateur/AMDM_Project_Part1.git](https://github.com/votre-utilisateur/AMDM_Project_Part1.git)
+git clone https://github.com/Ciscom224/projet_AMDM_M2
 cd AMDM_Project_Part1
 ```
 ### 2. Créer un environnement virtuel
